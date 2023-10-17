@@ -1,0 +1,33 @@
+.card {
+    width: 350px;
+    min-height: 230px;
+    border: 9px solid blue;
+}
+.picture {
+    width: 350px
+}
+.update {
+    background-color: blue;
+}
+
+body{
+    background: yellow;
+    -webkit-text-fill-color: red;
+}
+.info {
+        text-align: center;
+    border: 5px solid blue;
+}
+
+
+.card-area{
+    display: flex;
+}
+.card{
+    width: 350px;
+    min-height: 230px;
+    border: 9px solid blue;
+}
+.picture{
+    width: 350px;
+}
